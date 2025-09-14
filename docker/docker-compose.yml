@@ -1,12 +1,12 @@
-name: anythingllm
+name: quantummind
 
 networks:
-  anything-llm:
+  quantummind:
     driver: bridge
 
 services:
-  anything-llm:
-    container_name: anythingllm
+  quantummind:
+    container_name: quantummind
     build:
       context: ../.
       dockerfile: ./docker/Dockerfile
@@ -26,6 +26,6 @@ services:
     env_file:
       - .env
     networks:
-      - anything-llm
+      - quantummind
     extra_hosts:
       - "host.docker.internal:host-gateway"

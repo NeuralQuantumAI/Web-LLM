@@ -1,5 +1,5 @@
 {
-  "name": "anything-llm-document-collector",
+  "name": "quantummind-document-collector",
   "version": "1.8.5",
   "description": "Document collector server endpoints",
   "main": "index.js",

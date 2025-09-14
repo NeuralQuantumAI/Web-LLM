@@ -37,15 +37,15 @@ const TRANSLATIONS = {
         "Estos ajustes se pueden reconfigurar en cualquier momento en la configuración.",
     },
     survey: {
-      title: "Bienvenido a AnythingLLM",
+      title: "Bienvenido a QuantumMind",
       description:
-        "Ayúdanos a hacer que AnythingLLM se adapte a tus necesidades. Opcional.",
+        "Ayúdanos a hacer que QuantumMind se adapte a tus necesidades. Opcional.",
       email: "¿Cuál es tu correo electrónico?",
-      useCase: "¿Para qué usarás AnythingLLM?",
+      useCase: "¿Para qué usarás QuantumMind?",
       useCaseWork: "Para el trabajo",
       useCasePersonal: "Para uso personal",
       useCaseOther: "Otro",
-      comment: "¿Cómo te enteraste de AnythingLLM?",
+      comment: "¿Cómo te enteraste de QuantumMind?",
       commentPlaceholder:
         "Reddit, Twitter, GitHub, YouTube, etc. - ¡Haznos saber cómo nos encontraste!",
       skip: "Omitir encuesta",
